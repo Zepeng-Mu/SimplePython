@@ -30,4 +30,3 @@ while len(OriginalList) > 1:
         count += 1
         index += 1
         i += 1
-        
